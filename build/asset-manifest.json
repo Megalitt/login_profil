@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53f5db70.css",
+    "main.js": "/static/js/main.e928d97b.js",
+    "static/media/Mask1.png": "/static/media/Mask1.c87d153195509778b5a0.png",
+    "static/media/Mask4.png": "/static/media/Mask4.288a1ad20f8a944ff7bd.png",
+    "static/media/Mask2.png": "/static/media/Mask2.d813d989a19ea440c962.png",
+    "static/media/photo.jpg": "/static/media/photo.bc7c023b509370c5dee9.jpg",
+    "index.html": "/index.html",
+    "main.53f5db70.css.map": "/static/css/main.53f5db70.css.map",
+    "main.e928d97b.js.map": "/static/js/main.e928d97b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f5db70.css",
+    "static/js/main.e928d97b.js"
+  ]
+}

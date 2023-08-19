@@ -1,0 +1,53 @@
+.news {
+  margin-top: 100px;
+  position: relative;
+}
+.main {
+  max-width: 1588px;
+}
+.title-h2 {
+  text-transform: uppercase;
+  margin-top: 200px;
+  margin-left: 263px;
+  text-align: left;
+  font-size: 48px;
+  font-family: "Orchidea Pro Medium";
+  font-weight: 500;
+}
+.img-1 {
+  max-width: 860px;
+  max-height: 480px;
+  object-fit: cover;
+  flex: 0.4;
+}
+.img-2 {
+  max-width: 599px;
+  max-height: 411px;
+  object-fit: cover;
+  flex: 0.4;
+}
+.title-h4 {
+  font-size: 48px;
+  font-family: "Orchidea Pro Medium";
+  font-weight: 500;
+}
+.wrap {
+  margin-top: 123px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.wrap .text-wrap:nth-child(3) {
+  margin-left: 265px ;
+}
+.text-wrap {
+  max-width: 600px;
+  margin-left: 128px;
+}
+.text {
+  font-size: 18px;
+  margin-top: 25px;
+  margin-bottom: 100px;
+}
